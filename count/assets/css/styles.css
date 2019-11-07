@@ -1,0 +1,55 @@
+﻿/*-------------------------
+	Сброс
+--------------------------*/
+
+
+*{
+	margin:0;
+	padding:0;
+}
+
+
+/*-------------------------
+	Общие стили
+--------------------------*/
+
+
+html{
+	
+	position:relative;
+}
+
+body{
+    padding:0;
+}
+
+a, a:visited {
+	text-decoration:none;
+	outline:none;
+	color:#54a6de;
+}
+
+a:hover{
+	text-decoration:underline;
+}
+
+section, footer{
+	display: block;
+}
+
+
+/*----------------------------
+	Основной раздел
+-----------------------------*/
+
+#note{
+	color: #b5d126;
+	font-size: 12px;
+	margin: 0 auto;
+	padding: 4px;
+	text-align: center;
+	
+	width: 400px;
+}
+
+
